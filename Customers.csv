@@ -1,0 +1,12 @@
+CustomerID,CustomerName,Gender,Age,City,State,SignupDate
+C101,Akshay R,Male,28,Chennai,Tamil Nadu,1/10/2023
+C102,Sneha M,Female,25,Hyderabad,Telangana,2/15/2023
+C103,Rajiv K,Male,32,Bangalore,Karnataka,11/20/2022
+C104,Meena Iyer,Female,35,Coimbatore,Tamil Nadu,10/5/2022
+C105,Varun Singh,Male,29,Delhi,Delhi,3/12/2023
+C106,Priya Das,Female,26,Mumbai,Maharashtra,4/1/2023
+C107,Anish Jain,Male,30,Jaipur,Rajasthan,2/20/2023
+C108,Riya Sen,Female,24,Kolkata,West Bengal,5/25/2023
+C109,Suraj Nair,Male,31,Kochi,Kerala,12/18/2022
+C110,Kavya Reddy,Female,27,Vizag,Andhra Pradesh,1/30/2023
+C111,Vikas Mehra,Male,34,Pune,Maharashtra,3/28/2023
